@@ -1,5 +1,5 @@
 # Yogo-Pose-Estimation-With-Inceptionv3
-
+This is a project that has been done as an assignment for course "Convolutional Neural Networks With Tensorflow" for Coursera.org website.
 This project implements a yoga pose classification model using the InceptionV3 architecture as a base, with transfer learning. The model is trained to classify images into five different yoga poses.
 
 ## Project Overview
